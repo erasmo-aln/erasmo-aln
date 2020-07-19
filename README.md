@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Twitter URL](https://img.shields.io/twitter/url?color=1ca0f1&label=Erasmo%20Neto&logo=twitter&logoColor=1ca0f1&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Ferasmo_aln)
 <!--
 **erasmo-aln/erasmo-aln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
