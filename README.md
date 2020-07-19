@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Erasmo_Neto-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/erasmo_aln)](https://twitter.com/erasmo_aln) 
 [![Linkedin Badge](https://img.shields.io/badge/-Erasmo_Neto-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erasmoneto/)](https://www.linkedin.com/in/erasmoneto/)
-[![Gmail Badge](https://img.shields.io/badge/-erasmo.aln@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erasmo.aln@gmail.com)](mailto:erasmo.aln@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-erasmo.aln@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erasmo.aln@gmail.com)](mailto:erasmo.aln@gmail.com)
 
 
 
