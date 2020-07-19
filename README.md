@@ -1,4 +1,5 @@
-[![Twitter Badge](https://img.shields.io/badge/-Erasmo_Neto-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/erasmo_aln)](https://twitter.com/erasmo_aln) 
+[![Twitter Badge](https://img.shields.io/badge/-Erasmo_Neto-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/erasmo_aln)](https://twitter.com/erasmo_aln) 
+[![Twitter Badge](https://img.shields.io/badge/-Erasmo_Neto-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/erasmo_aln)](https://twitter.com/erasmo_aln) 
 [![Linkedin Badge](https://img.shields.io/badge/-Erasmo_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erasmoneto/)](https://www.linkedin.com/in/erasmoneto/)
 [![Gmail Badge](https://img.shields.io/badge/-erasmo.aln@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erasmo.aln@gmail.com)](mailto:erasmo.aln@gmail.com)
 
@@ -10,7 +11,7 @@
 
 <!--
 **erasmo-aln/erasmo-aln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+flat-square
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
