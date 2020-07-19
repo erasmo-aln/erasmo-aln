@@ -1,6 +1,19 @@
-[![Twitter Badge](https://img.shields.io/badge/-Erasmo_Neto-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/erasmo_aln)](https://twitter.com/erasmo_aln)
-[![Linkedin Badge](https://img.shields.io/badge/-Erasmo_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erasmoneto/)](https://www.linkedin.com/in/erasmoneto/)
-[![Gmail Badge](https://img.shields.io/badge/-erasmo.aln@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erasmo.aln@gmail.com)](mailto:erasmo.aln@gmail.com)
+## Hey, I'm Erasmo Neto :wave:
+*Currently in the last semester of Electrical Engineering at [`Universidade Tiradentes`](https://www.unit.br/)*
+
+### About me :thought_balloon:
+- :bar_chart: *Starting in the world of data science*
+- :coffee: *Love coffee*
+- :mag_right: *Computer Vision Enthusiast*
+
+### Languages and Tools :computer:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/erasmo-aln)](https://github.com/erasmo-aln) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/erasmo-aln)](https://github.com/erasmo-aln)
+
+
+
+
+
+
 
 
 
