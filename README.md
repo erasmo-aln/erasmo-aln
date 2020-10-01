@@ -18,5 +18,5 @@ learnr](https://img.shields.io/badge/R-Language-75aadb.svg?style=flat&logo=data:
 - #### Tools
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/erasmo-aln)](https://github.com/erasmo-aln) [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/erasmo-aln)](https://github.com/erasmo-aln) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/erasmo-aln)](https://github.com/erasmo-aln)
 
-#### You can see my projects in my website [here](https://erasmo-aln.github.io/portfolio/) or
+#### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or
 #### Take a look at my repo's :point_down: :point_down:
