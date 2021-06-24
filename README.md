@@ -5,9 +5,9 @@
 *Graduated in Electrical Engineering at [`Universidade Tiradentes`](https://www.unit.br/)*
 
 ### About me :thought_balloon:
-- :bar_chart: *Starting in the world of Data Science and Machine Learning*
-- :books: *Currently doing the Data Scientist course at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*
-- :mag_right: *Artificial Intelligence Enthusiast*
+- :bar_chart: *Getting into the field of Data Science and Machine Learning*
+- :books: *Currently doing the **Data Scientist (FCD)** and **Machine Learning Engineer (FEML)** courses at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*
+- 🏤: *Currently working as an ERP Analyst at a university*
 
 ### Skills :computer:
 ***Python***  
@@ -29,5 +29,4 @@
 *English (Advanced) | Portuguese (Native)*
 
 
-#### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or
-#### Take a look at my repo's :point_down: :point_down:
+#### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or take a look at my pinned repo's :point_down:
