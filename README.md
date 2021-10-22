@@ -7,7 +7,7 @@
 ## About me :thought_balloon:
 :bar_chart: *Getting into the field of Data Science and Machine Learning*  
 :books: *Currently doing the **Data Scientist (FCD)** and **Machine Learning Engineer (FEML)** courses at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*  
-🏤 *Currently working as an ERP Analyst at a university*  
+🏤 *Currently working as a Data Scientist at Datarisk*  
 
 ## Skills :computer:
 ***Python***  
