@@ -5,28 +5,15 @@
 *Graduated in Electrical Engineering at [`Universidade Tiradentes`](https://www.unit.br/)*
 
 ## About me :thought_balloon:
-:bar_chart: *Getting into the field of Data Science and Machine Learning*  
-:books: *Currently doing the **Data Scientist (FCD)** and **Machine Learning Engineer (FEML)** courses at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*  
-🏤 *Currently working as a Data Scientist at Datarisk*  
+:bar_chart: *Data Scientist at Datarisk*  
+:books: *Currently doing the **Data Engineer** and **Machine Learning Engineer** courses at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*  
 
 ## Skills :computer:
 ***Python***  
-*Numpy | Pandas | Matplotlib | Seaborn | sklearn | RegEx | Selenium | SQLAlchemy | Tensorflow | Keras*
-
-***R***  
-*dplyr | plyr | readr | caret | party | ggplot*  
-
-***Data Visualization***  
-*Plotly | Streamlit | Tableau*
-
-***Big Data***  
-*PySpark | Spark Streaming | Spark MLLib*
-
-***Databases***  
-*SQL Server | PostgreSQL*
-
-***Languages***  
-*English (Advanced) | Portuguese (Native)*
+***SQL***  
+***PySpark*** 
+***AWS*** 
+***Credit Risk Modeling*** 
 
 
 #### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or take a look at my pinned repo's :point_down:
