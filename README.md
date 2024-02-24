@@ -11,9 +11,9 @@
 ## Skills :computer:
 ***Python***  
 ***SQL***  
-***PySpark*** 
-***AWS*** 
-***Credit Risk Modeling*** 
+***PySpark***  
+***AWS***  
+***Credit Risk Modeling***  
 
 
 #### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or take a look at my pinned repo's :point_down:
