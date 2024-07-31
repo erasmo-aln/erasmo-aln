@@ -6,14 +6,3 @@
 
 ## About me :thought_balloon:
 :bar_chart: *Data Scientist at Datarisk*  
-:books: *Currently doing the **Data Engineer** and **Machine Learning Engineer** courses at [`Data Science Academy`](https://www.datascienceacademy.com.br/)*  
-
-## Skills :computer:
-***Python***  
-***SQL***  
-***PySpark***  
-***AWS***  
-***Credit Risk Modeling***  
-
-
-#### You can see my projects in my portfolio [here](https://erasmo-aln.github.io/) or take a look at my pinned repo's :point_down:
